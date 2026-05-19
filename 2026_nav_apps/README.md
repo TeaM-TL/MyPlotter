@@ -25,11 +25,18 @@
 
 ## Maps online
 - [Poland BHMW](https://bhmw-wms.wp.mil.pl/)
+- [Poland Free nautical charts and publications](https://wojtekbartoszynski.pl/)
 - [Denmark Skippo](https://www.skippo.dk/plan)
 - [Norway Skippo](https://www.skippo.no/plan)
+- [Norway Den norske los](https://dnl.kartverket.no/)
 - [Sweden Skippo](https://www.skippo.se/plan)
 - [Germany](https://freenauticalchart.net/)
+- [USA NOAA](https://www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml)
+- [World OpenSeaMap](https://map.openseamap.org/)
 
 ## Weather
 - Grib for Baltic Sea by Jaromir, every 12 hours [Download](https://www.iopan.gda.pl/~jjakacki/EBG/)
 - Waves for Baltic Sea by Jaromir, every 24 hours [Download](https://www.iopan.gda.pl/~jjakacki/GribWW/)
+- [NOAA Hurricane Center](https://www.nhc.noaa.gov/cyclones/?atlc)
+- [Wetter3de](https://www.wetter3.de/)
+- [MetOffice history](https://meteo.team-tl.pl/)
