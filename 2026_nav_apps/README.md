@@ -2,7 +2,7 @@
 
 ## OpenCPN
 
-![OpenCPN](2024_AIS/OpenCPN_AIS-2024-09-09.png)
+![OpenCPN](../2024_AIS/OpenCPN_AIS-2024-09-09.png)
 
 - charts per country via [o-charts](https://www.o-charts.org/)
 - free raster charts [OpenSeaMap](https://wiki.openstreetmap.org/wiki/KAP-charts_from_OpenSeaMap) or direct [Download](https://ftp.gwdg.de/pub/misc/openstreetmap/openseamap/charts/kap/)
