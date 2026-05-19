@@ -1,10 +1,10 @@
-# Navigation apps
+# Navigation apps and services
 
 ## OpenCPN
 
 [Home Page](https://opencpn.org/) [Download](https://opencpn.org/OpenCPN/info/downloadopencpn.html)
-![OpenCPN](../2024_AIS/OpenCPN_AIS-2024-09-09.png)
 
+- extra AIS support ![see](../2024_AIS/)
 - charts per country via [o-charts](https://www.o-charts.org/)
 - suport free raster charts [OpenSeaMap](https://wiki.openstreetmap.org/wiki/KAP-charts_from_OpenSeaMap) or direct [Download](https://ftp.gwdg.de/pub/misc/openstreetmap/openseamap/charts/kap/)
 
@@ -29,3 +29,7 @@
 - [Norway Skippo](https://www.skippo.no/plan)
 - [Sweden Skippo](https://www.skippo.se/plan)
 - [Germany](https://freenauticalchart.net/)
+
+## Weather
+- Grib for Baltic Sea by Jaromir, every 12 hours [Download](https://www.iopan.gda.pl/~jjakacki/EBG/)
+- Waves for Baltic Sea by Jaromir, every 24 hours [Download](https://www.iopan.gda.pl/~jjakacki/GribWW/)
