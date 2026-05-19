@@ -7,3 +7,5 @@ My chartplotter and other stuff around
 [Plotter Beta version](2024_openplotter/README.md)
 
 [Barograph](2025_barograph/README.md)
+
+[Navigation apps and services](2026_nav_apps/README.md)
