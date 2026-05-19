@@ -2,14 +2,14 @@
 
 ## OpenCPN
 
-[Home Page](https://opencpn.org/) [Download](https://opencpn.org/OpenCPN/info/downloadopencpn.html)
+[Home Page](https://opencpn.org/), [Download](https://opencpn.org/OpenCPN/info/downloadopencpn.html)
 
 - extra AIS support ![see](../2024_AIS/)
 - charts per country via [o-charts](https://www.o-charts.org/)
 - suport free raster charts [OpenSeaMap](https://wiki.openstreetmap.org/wiki/KAP-charts_from_OpenSeaMap) or direct [Download](https://ftp.gwdg.de/pub/misc/openstreetmap/openseamap/charts/kap/)
 
 ## NV Charts App
-[Download](https://eu.nvcharts.com/digital-charts/nv-charts-app/)
+[Home Page and Download](https://eu.nvcharts.com/digital-charts/nv-charts-app/)
 
 - MacOS, MS Windows, Android, iOS
 - poor configuration - only one network NMEA input
