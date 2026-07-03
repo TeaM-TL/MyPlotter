@@ -4,7 +4,7 @@
 
 [Home Page](https://opencpn.org/), [Download](https://opencpn.org/OpenCPN/info/downloadopencpn.html)
 
-- extra AIS support ![see](../2024_AIS/)
+- excellent AIS support [see](../2024_AIS/)
 - charts per country via [o-charts](https://www.o-charts.org/)
 - suport free raster charts [OpenSeaMap](https://wiki.openstreetmap.org/wiki/KAP-charts_from_OpenSeaMap) or direct [Download](https://ftp.gwdg.de/pub/misc/openstreetmap/openseamap/charts/kap/)
 
@@ -40,3 +40,10 @@
 - [NOAA Hurricane Center](https://www.nhc.noaa.gov/cyclones/?atlc)
 - [Wetter3de](https://www.wetter3.de/)
 - [MetOffice history](https://meteo.team-tl.pl/)
+- [meteo PL](https://www.meteo.pl/)
+- [meteo PL komentarz synoptyka](https://old.meteo.pl/komentarze/index1.php)
+- [Frank Singleton's Weather and Sailing Pages](http://weather.mailasail.com/Franks-Weather/Home)
+
+## Info
+- [PL](https://www.bhmw.gov.pl/)
+- [SE](https://ufs.sjofartsverket.se/en/Current/PoTNotice)
