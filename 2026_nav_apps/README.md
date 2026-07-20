@@ -50,3 +50,4 @@
 
 ## Other Apps
 - [PC NAVTEX USB for Linux, RPi](https://github.com/TeaM-TL/pc-navtex-py)
+- [barograph BMP280 for RPi](../2025_barograph/)
